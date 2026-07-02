@@ -289,9 +289,3 @@ Reusable components include:
 **Jinsi**
 
 UI/UX Designer | Product Design Enthusiast
-
-LinkedIn: YOUR_LINK
-
-Portfolio: YOUR_PORTFOLIO
-
-Email: YOUR_EMAIL
