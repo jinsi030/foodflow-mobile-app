@@ -259,33 +259,9 @@ Reusable components include:
 
 ---
 
-## Screenshots
-
-### Onboarding
-
-![Onboarding](assets/onboarding.png)
-
-### Home Screen
-
-![Home](assets/home-screen.png)
-
-### Restaurant Details
-
-![Restaurant](assets/restaurant-details.png)
-
-### Cart
-
-![Cart](assets/cart.png)
-
-### Checkout
-
-![Checkout](assets/checkout.png)
-
----
-
 ## Prototype
 
-🔗 [View Figma Prototype](PASTE_FIGMA_LINK_HERE)
+🔗 [View Figma Prototype](https://www.figma.com/design/FVNwrCfTQ2PNHfAesUCLB3/food-delivery-app?m=auto&t=dqqUVQXU9xUX5v2s-6)
 
 ---
 
